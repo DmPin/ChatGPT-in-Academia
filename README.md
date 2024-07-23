@@ -5,9 +5,9 @@ ChatGPT, developed by OpenAI, has sparked interest as a potential tool in academ
 
 **Methods**
 
-We conducted a survey gathering 100 responses from diverse university students. Methods included direct campus interactions, Instagram posts, and outreach to peers from other universities. Data analysis utilized Python, leveraging matplotlib for visualization and pandas/numpy for efficient data handling.
+We conducted a survey gathering 100 responses from diverse university students. Methods included direct campus interactions, Instagram posts, and outreach to peers from other universities.
 
-In this project, we leverage **Python** with libraries including **Matplotlib**, **Pandas**, and **Numpy** to facilitate efficient data handling, cleaning and visualization operations.
+In this project, we leverage **Python** for data analysis with libraries including **Matplotlib**, **Pandas**, and **Numpy** to facilitate efficient data handling, cleaning and visualization operations.
 
 **Key Findings**
 
