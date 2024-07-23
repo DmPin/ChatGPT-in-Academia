@@ -18,4 +18,5 @@ Opinions: Views on ChatGPT ranged from optimism about personalized learning to c
 Visualizations: Graphical representations using matplotlib illustrate the distribution of opinions among respondents.
 
 **Conclusion**
+
 Our findings underscore the potential benefits of ChatGPT in academia, alongside the importance of addressing biases and ensuring ethical usage. Further research and careful implementation strategies are essential for its effective integration into educational environments.
